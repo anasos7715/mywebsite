@@ -1,0 +1,11 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- دائرة خلفية صفراء -->
+  <circle cx="250" cy="250" r="230" fill="#FFD700"/>
+  
+  <!-- صورة شخصية -->
+ <image href="myphoto.jpg" x="100" y="100" width="300" height="300"/>
+  
+  <!-- نقاط زخرفية -->
+  <circle cx="100" cy="100" r="10" fill="#FFF" opacity="0.6"/>
+  <circle cx="400" cy="150" r="8" fill="#FFF" opacity="0.6"/>
+</svg>
