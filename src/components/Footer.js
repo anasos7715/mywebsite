@@ -18,7 +18,7 @@ export const Footer = () => {
             <div className="social-icon">
               <a href="https://www.linkedin.com/in/anas-al-sha%C3%A0be-101397261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src={navIcon1} alt="Icon" /></a>
               <a href="https://github.com/anasos7715"><img src={navIcon2} alt="Icon" /></a>
-              <a href="https://www.linkedin.com/in/anas-al-sha%C3%A0be-101397261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src={navIcon3} alt="Icon" /></a>
+              <a href="https://www.instagram.com/anas_7os?igsh=MWU1ZWd3MnJ3N3Jjbw=="><img src={navIcon3} alt="Icon" /></a>
             </div>
             <p>Copyright 2025. All Rights Reserved by anas al-shaabe</p>
           </Col>
